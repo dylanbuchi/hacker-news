@@ -1,0 +1,87 @@
+[
+    {
+        "title":"AMD Zen 3/Ryzen 5000 announcement [video]",
+        "link":"https://www.youtube.com/embed/iuiO6rqYV4o",
+        "upvotes":754
+    },
+    {
+        "title":"Google\u2019s Supreme Court faceoff with Oracle was a disaster for Google",
+        "link":"https://arstechnica.com/tech-policy/2020/10/googles-supreme-court-faceoff-with-oracle-was-a-disaster-for-google/",
+        "upvotes":640
+    },
+    {
+        "title":"JuliaMono \u2013 a monospaced font for scientific and technical computing",
+        "link":"https://juliamono.netlify.app/",
+        "upvotes":268
+    },
+    {
+        "title":"A Short Story About SQL\u2019s Biggest Rival",
+        "link":"http://holistics.io/blog/quel-vs-sql/?",
+        "upvotes":249
+    },
+    {
+        "title":"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+        "link":"item?id=24730450",
+        "upvotes":246
+    },
+    {
+        "title":"Additional steps we're taking ahead of the 2020 US Election",
+        "link":"https://blog.twitter.com/en_us/topics/company/2020/2020-election-changes.html",
+        "upvotes":231
+    },
+    {
+        "title":"Compiler for the M language of the French DGFiP",
+        "link":"https://gitlab.inria.fr/verifisc/mlang",
+        "upvotes":206
+    },
+    {
+        "title":"How Much Vitamin D Is Too Much? A Case Report and Review of the Literature",
+        "link":"https://pubmed.ncbi.nlm.nih.gov/33030138/",
+        "upvotes":193
+    },
+    {
+        "title":"Delphi 2 can compile large .pas files at 1.2M lines per second",
+        "link":"https://twitter.com/pervognsen/status/1265582295575982080",
+        "upvotes":192
+    },
+    {
+        "title":"Collision Detection (2015)",
+        "link":"http://www.jeffreythompson.org/collision-detection/",
+        "upvotes":147
+    },
+    {
+        "title":"Modernising RISC OS in 2020: is there hope for the ancient ARM OS?",
+        "link":"https://liam-on-linux.livejournal.com/73983.html",
+        "upvotes":109
+    },
+    {
+        "title":"OPSEC critique of the Michigan Governor kidnap plot",
+        "link":"https://twitter.com/thegrugq/status/1314237833276612609",
+        "upvotes":102
+    },
+    {
+        "title":"Is your programming language unreasonable? (2015)",
+        "link":"https://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/",
+        "upvotes":92
+    },
+    {
+        "title":"The shadow investment wars of Alibaba and Tencent",
+        "link":"https://lillianli.substack.com/p/the-shadow-war-between-alibaba-and",
+        "upvotes":87
+    },
+    {
+        "title":"Ctypes.sh: A foreign function interface for bash",
+        "link":"https://github.com/taviso/ctypes.sh",
+        "upvotes":82
+    },
+    {
+        "title":"Goodbye Mozilla",
+        "link":"https://paulrouget.com/bye_mozilla.html",
+        "upvotes":71
+    },
+    {
+        "title":"Why the Unix newgrp command exists (sort of)",
+        "link":"https://utcc.utoronto.ca/~cks/space/blog/unix/NewgrpCommandWhy",
+        "upvotes":70
+    }
+]

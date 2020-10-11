@@ -1,0 +1,67 @@
+[
+    {
+        "title":"We Hacked Apple for 3 Months",
+        "link":"https://samcurry.net/hacking-apple/",
+        "upvotes":1441
+    },
+    {
+        "title":"Matt Levine makes sense of Wall Street like none other",
+        "link":"https://www.nytimes.com/2020/10/08/business/matt-levine-bloomberg.html",
+        "upvotes":628
+    },
+    {
+        "title":"Git scraping: track changes over time by scraping to a Git repository",
+        "link":"https://simonwillison.net/2020/Oct/9/git-scraping/",
+        "upvotes":454
+    },
+    {
+        "title":"New study suggests handwriting engages the brain more than typing",
+        "link":"https://www.ctvnews.ca/health/new-study-suggests-handwriting-engages-the-brain-more-than-typing-1.5132542",
+        "upvotes":273
+    },
+    {
+        "title":"Launch HN: Doppler (YC W19) \u2013 Easily manage your env vars and secrets",
+        "link":"item?id=24719722",
+        "upvotes":216
+    },
+    {
+        "title":"More than half of all whale and dolphin species are of conservation concern",
+        "link":"https://www.bbc.com/news/science-environment-54485407",
+        "upvotes":203
+    },
+    {
+        "title":"Loading CSV File at the Speed Limit of the NVMe Storage",
+        "link":"https://liuliu.me/eyes/loading-csv-file-at-the-speed-limit-of-the-nvme-storage/",
+        "upvotes":192
+    },
+    {
+        "title":"A New Back End for Cranelift",
+        "link":"https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/",
+        "upvotes":167
+    },
+    {
+        "title":"Object Detection from 9 FPS to 650 FPS",
+        "link":"https://paulbridger.com/posts/video_analytics_pipeline_tuning/",
+        "upvotes":151
+    },
+    {
+        "title":"An Almond-Based Low Carbohydrate Diet Improves Depression in Diabetics",
+        "link":"https://pubmed.ncbi.nlm.nih.gov/33022991/",
+        "upvotes":83
+    },
+    {
+        "title":"Forearm artery reveals human evolution continues?",
+        "link":"https://news.flinders.edu.au/blog/2020/10/08/forearm-artery-reveals-human-evolution-continues/",
+        "upvotes":80
+    },
+    {
+        "title":"AMD Has Scaled Ryzen Faster Than Any Other CPU in the Past 20 Years",
+        "link":"https://www.extremetech.com/computing/316023-amd-has-scaled-ryzen-faster-than-any-other-cpu-in-the-past-20-years",
+        "upvotes":78
+    },
+    {
+        "title":"Feds may target Google's Chrome browser for breakup",
+        "link":"https://www.politico.com/news/2020/10/10/feds-may-target-googles-chrome-browser-for-breakup-428468",
+        "upvotes":73
+    }
+]
